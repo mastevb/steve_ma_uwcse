@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/steve_ma_uwcse.io/static/css/main.d0293cf6.chunk.css",
+    "main.js": "/steve_ma_uwcse.io/static/js/main.82db4167.chunk.js",
+    "main.js.map": "/steve_ma_uwcse.io/static/js/main.82db4167.chunk.js.map",
+    "runtime-main.js": "/steve_ma_uwcse.io/static/js/runtime-main.c2adb75b.js",
+    "runtime-main.js.map": "/steve_ma_uwcse.io/static/js/runtime-main.c2adb75b.js.map",
+    "static/js/2.9179c065.chunk.js": "/steve_ma_uwcse.io/static/js/2.9179c065.chunk.js",
+    "static/js/2.9179c065.chunk.js.map": "/steve_ma_uwcse.io/static/js/2.9179c065.chunk.js.map",
+    "static/css/3.cffc9e54.chunk.css": "/steve_ma_uwcse.io/static/css/3.cffc9e54.chunk.css",
+    "static/js/3.32bfc5ad.chunk.js": "/steve_ma_uwcse.io/static/js/3.32bfc5ad.chunk.js",
+    "static/js/3.32bfc5ad.chunk.js.map": "/steve_ma_uwcse.io/static/js/3.32bfc5ad.chunk.js.map",
+    "static/css/4.54df59d4.chunk.css": "/steve_ma_uwcse.io/static/css/4.54df59d4.chunk.css",
+    "static/js/4.05955055.chunk.js": "/steve_ma_uwcse.io/static/js/4.05955055.chunk.js",
+    "static/js/4.05955055.chunk.js.map": "/steve_ma_uwcse.io/static/js/4.05955055.chunk.js.map",
+    "index.html": "/steve_ma_uwcse.io/index.html",
+    "precache-manifest.20eef4e19c3061d3909ba0f4d446edad.js": "/steve_ma_uwcse.io/precache-manifest.20eef4e19c3061d3909ba0f4d446edad.js",
+    "service-worker.js": "/steve_ma_uwcse.io/service-worker.js",
+    "static/css/3.cffc9e54.chunk.css.map": "/steve_ma_uwcse.io/static/css/3.cffc9e54.chunk.css.map",
+    "static/css/4.54df59d4.chunk.css.map": "/steve_ma_uwcse.io/static/css/4.54df59d4.chunk.css.map",
+    "static/css/main.d0293cf6.chunk.css.map": "/steve_ma_uwcse.io/static/css/main.d0293cf6.chunk.css.map",
+    "static/media/index.css": "/steve_ma_uwcse.io/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/TikTok_logo.png": "/steve_ma_uwcse.io/static/media/TikTok_logo.d725bfec.png",
+    "static/media/circle-cropped.png": "/steve_ma_uwcse.io/static/media/circle-cropped.0e42d7fb.png",
+    "static/media/gemsec.png": "/steve_ma_uwcse.io/static/media/gemsec.ad952228.png",
+    "static/media/logo.svg": "/steve_ma_uwcse.io/static/media/logo.25bf045c.svg",
+    "static/media/uwcse.jpg": "/steve_ma_uwcse.io/static/media/uwcse.8c90e2c6.jpg",
+    "static/media/uwcse2.png": "/steve_ma_uwcse.io/static/media/uwcse2.20840525.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c2adb75b.js",
+    "static/js/2.9179c065.chunk.js",
+    "static/css/main.d0293cf6.chunk.css",
+    "static/js/main.82db4167.chunk.js"
+  ]
+}
