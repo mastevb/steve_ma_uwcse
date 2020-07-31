@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b49d1d6903d08672bf811137e39bc7f1",
+    "revision": "d68398c4eb305f4ec7b349030c4ba2ab",
     "url": "/steve_ma_uwcse.io/index.html"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/steve_ma_uwcse.io/static/css/4.54df59d4.chunk.css"
   },
   {
-    "revision": "09d22f09259cdfb11499",
+    "revision": "b28b0b6a163319871a28",
     "url": "/steve_ma_uwcse.io/static/css/main.ed8b3c5e.chunk.css"
   },
   {
@@ -28,8 +28,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/steve_ma_uwcse.io/static/js/4.85d95b1d.chunk.js"
   },
   {
-    "revision": "09d22f09259cdfb11499",
-    "url": "/steve_ma_uwcse.io/static/js/main.340cca8b.chunk.js"
+    "revision": "b28b0b6a163319871a28",
+    "url": "/steve_ma_uwcse.io/static/js/main.49323a37.chunk.js"
   },
   {
     "revision": "d1177a5324e4b6f6ef00",
@@ -44,12 +44,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/steve_ma_uwcse.io/static/media/Montserrat-Regular.ee653992.ttf"
   },
   {
-    "revision": "d725bfec3990c575c2e762c55ac2bb3f",
-    "url": "/steve_ma_uwcse.io/static/media/TikTok_logo.d725bfec.png"
-  },
-  {
     "revision": "0e42d7fbf6dbf43be6adbea5fe082388",
     "url": "/steve_ma_uwcse.io/static/media/circle-cropped.0e42d7fb.png"
+  },
+  {
+    "revision": "1fa22d781bd0431d12c353450b8acfed",
+    "url": "/steve_ma_uwcse.io/static/media/esc.1fa22d78.jpg"
   },
   {
     "revision": "ad952228abdc6e35de22b2483881a9d9",
