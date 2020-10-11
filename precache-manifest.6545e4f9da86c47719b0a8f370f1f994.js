@@ -1,39 +1,39 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "902708eb0125c2d95f6a1c26603e07be",
+    "revision": "3c66850680045f1944a68c896ced6a05",
     "url": "/steve_ma_uwcse.io/index.html"
   },
   {
-    "revision": "efc4d4073b511740548d",
+    "revision": "f8cdad9a8de75ffedf20",
     "url": "/steve_ma_uwcse.io/static/css/3.cffc9e54.chunk.css"
   },
   {
-    "revision": "e89cf61032bd5cd90b0a",
+    "revision": "daf17ae193dcc1121334",
     "url": "/steve_ma_uwcse.io/static/css/4.54df59d4.chunk.css"
   },
   {
-    "revision": "02a1b739978205c435cc",
+    "revision": "22e617e6287389580b52",
     "url": "/steve_ma_uwcse.io/static/css/main.ed8b3c5e.chunk.css"
   },
   {
-    "revision": "b16c484580d212c4697e",
-    "url": "/steve_ma_uwcse.io/static/js/2.fab78dc0.chunk.js"
+    "revision": "1b5ad8a1f677efcd9d7f",
+    "url": "/steve_ma_uwcse.io/static/js/2.0c9362b2.chunk.js"
   },
   {
-    "revision": "efc4d4073b511740548d",
-    "url": "/steve_ma_uwcse.io/static/js/3.98fa98e9.chunk.js"
+    "revision": "f8cdad9a8de75ffedf20",
+    "url": "/steve_ma_uwcse.io/static/js/3.21197532.chunk.js"
   },
   {
-    "revision": "e89cf61032bd5cd90b0a",
-    "url": "/steve_ma_uwcse.io/static/js/4.e0e16a1d.chunk.js"
+    "revision": "daf17ae193dcc1121334",
+    "url": "/steve_ma_uwcse.io/static/js/4.aac2afca.chunk.js"
   },
   {
-    "revision": "02a1b739978205c435cc",
-    "url": "/steve_ma_uwcse.io/static/js/main.ea661f61.chunk.js"
+    "revision": "22e617e6287389580b52",
+    "url": "/steve_ma_uwcse.io/static/js/main.679ac9fd.chunk.js"
   },
   {
-    "revision": "e798b700ecfe9e24bc09",
-    "url": "/steve_ma_uwcse.io/static/js/runtime-main.a7a0ca2f.js"
+    "revision": "76977573bfb5cc6e3b10",
+    "url": "/steve_ma_uwcse.io/static/js/runtime-main.4c620c6a.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -42,6 +42,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
     "url": "/steve_ma_uwcse.io/static/media/Montserrat-Regular.ee653992.ttf"
+  },
+  {
+    "revision": "b0b0aa4fe94d50f004ef6a2f2367fb40",
+    "url": "/steve_ma_uwcse.io/static/media/bioE.b0b0aa4f.png"
   },
   {
     "revision": "0e42d7fbf6dbf43be6adbea5fe082388",
