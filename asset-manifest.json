@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/steve_ma_uwcse.io/static/css/main.535a2a49.chunk.css",
-    "main.js": "/steve_ma_uwcse.io/static/js/main.bb71deee.chunk.js",
-    "main.js.map": "/steve_ma_uwcse.io/static/js/main.bb71deee.chunk.js.map",
+    "main.css": "/steve_ma_uwcse.io/static/css/main.b11b7a7f.chunk.css",
+    "main.js": "/steve_ma_uwcse.io/static/js/main.c90ea301.chunk.js",
+    "main.js.map": "/steve_ma_uwcse.io/static/js/main.c90ea301.chunk.js.map",
     "runtime-main.js": "/steve_ma_uwcse.io/static/js/runtime-main.58e6ac3a.js",
     "runtime-main.js.map": "/steve_ma_uwcse.io/static/js/runtime-main.58e6ac3a.js.map",
     "static/js/2.38bf12eb.chunk.js": "/steve_ma_uwcse.io/static/js/2.38bf12eb.chunk.js",
@@ -14,11 +14,11 @@
     "static/js/4.26d851f1.chunk.js": "/steve_ma_uwcse.io/static/js/4.26d851f1.chunk.js",
     "static/js/4.26d851f1.chunk.js.map": "/steve_ma_uwcse.io/static/js/4.26d851f1.chunk.js.map",
     "index.html": "/steve_ma_uwcse.io/index.html",
-    "precache-manifest.b8fb27d1540ed27d0dc21754b3825583.js": "/steve_ma_uwcse.io/precache-manifest.b8fb27d1540ed27d0dc21754b3825583.js",
+    "precache-manifest.235e34ab117c2b3ab3b24665b5252571.js": "/steve_ma_uwcse.io/precache-manifest.235e34ab117c2b3ab3b24665b5252571.js",
     "service-worker.js": "/steve_ma_uwcse.io/service-worker.js",
     "static/css/3.cffc9e54.chunk.css.map": "/steve_ma_uwcse.io/static/css/3.cffc9e54.chunk.css.map",
     "static/css/4.54df59d4.chunk.css.map": "/steve_ma_uwcse.io/static/css/4.54df59d4.chunk.css.map",
-    "static/css/main.535a2a49.chunk.css.map": "/steve_ma_uwcse.io/static/css/main.535a2a49.chunk.css.map",
+    "static/css/main.b11b7a7f.chunk.css.map": "/steve_ma_uwcse.io/static/css/main.b11b7a7f.chunk.css.map",
     "static/media/index.css": "/steve_ma_uwcse.io/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/bioE.png": "/steve_ma_uwcse.io/static/media/bioE.b0b0aa4f.png",
     "static/media/circle-cropped.png": "/steve_ma_uwcse.io/static/media/circle-cropped.0e42d7fb.png",
@@ -26,13 +26,13 @@
     "static/media/gemsec.png": "/steve_ma_uwcse.io/static/media/gemsec.ad952228.png",
     "static/media/logo.svg": "/steve_ma_uwcse.io/static/media/logo.25bf045c.svg",
     "static/media/lshs.png": "/steve_ma_uwcse.io/static/media/lshs.1cbf302a.png",
-    "static/media/uwcse.jpg": "/steve_ma_uwcse.io/static/media/uwcse.8c90e2c6.jpg",
-    "static/media/uwcse2.png": "/steve_ma_uwcse.io/static/media/uwcse2.20840525.png"
+    "static/media/me2.png": "/steve_ma_uwcse.io/static/media/me2.58fb7677.png",
+    "static/media/uwcse.jpg": "/steve_ma_uwcse.io/static/media/uwcse.8c90e2c6.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.58e6ac3a.js",
     "static/js/2.38bf12eb.chunk.js",
-    "static/css/main.535a2a49.chunk.css",
-    "static/js/main.bb71deee.chunk.js"
+    "static/css/main.b11b7a7f.chunk.css",
+    "static/js/main.c90ea301.chunk.js"
   ]
 }
