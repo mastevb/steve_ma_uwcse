@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "40f80369a7a103241b68e7c70d1faf06",
+    "revision": "deaea09a79c2cf12eb695c0e1cfeb05c",
     "url": "/steve_ma_uwcse.io/index.html"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/steve_ma_uwcse.io/static/css/4.54df59d4.chunk.css"
   },
   {
-    "revision": "b9b763b66ac2315f88d7",
+    "revision": "af742c722c09c8081011",
     "url": "/steve_ma_uwcse.io/static/css/main.b11b7a7f.chunk.css"
   },
   {
@@ -28,8 +28,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/steve_ma_uwcse.io/static/js/4.26d851f1.chunk.js"
   },
   {
-    "revision": "b9b763b66ac2315f88d7",
-    "url": "/steve_ma_uwcse.io/static/js/main.da4eea76.chunk.js"
+    "revision": "af742c722c09c8081011",
+    "url": "/steve_ma_uwcse.io/static/js/main.7348f14d.chunk.js"
   },
   {
     "revision": "fd315a008bf4a22cb503",
