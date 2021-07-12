@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/steve_ma_uwcse.io/static/css/main.3e2a178c.chunk.css",
-    "main.js": "/steve_ma_uwcse.io/static/js/main.879a0a9c.chunk.js",
-    "main.js.map": "/steve_ma_uwcse.io/static/js/main.879a0a9c.chunk.js.map",
-    "runtime-main.js": "/steve_ma_uwcse.io/static/js/runtime-main.3092be78.js",
-    "runtime-main.js.map": "/steve_ma_uwcse.io/static/js/runtime-main.3092be78.js.map",
-    "static/js/2.ab87317c.chunk.js": "/steve_ma_uwcse.io/static/js/2.ab87317c.chunk.js",
-    "static/js/2.ab87317c.chunk.js.map": "/steve_ma_uwcse.io/static/js/2.ab87317c.chunk.js.map",
+    "main.js": "/steve_ma_uwcse.io/static/js/main.f7f4d12d.chunk.js",
+    "main.js.map": "/steve_ma_uwcse.io/static/js/main.f7f4d12d.chunk.js.map",
+    "runtime-main.js": "/steve_ma_uwcse.io/static/js/runtime-main.406403bf.js",
+    "runtime-main.js.map": "/steve_ma_uwcse.io/static/js/runtime-main.406403bf.js.map",
+    "static/js/2.ff73d9e2.chunk.js": "/steve_ma_uwcse.io/static/js/2.ff73d9e2.chunk.js",
+    "static/js/2.ff73d9e2.chunk.js.map": "/steve_ma_uwcse.io/static/js/2.ff73d9e2.chunk.js.map",
     "static/css/3.ec91b591.chunk.css": "/steve_ma_uwcse.io/static/css/3.ec91b591.chunk.css",
-    "static/js/3.fd7a6975.chunk.js": "/steve_ma_uwcse.io/static/js/3.fd7a6975.chunk.js",
-    "static/js/3.fd7a6975.chunk.js.map": "/steve_ma_uwcse.io/static/js/3.fd7a6975.chunk.js.map",
+    "static/js/3.708c7f41.chunk.js": "/steve_ma_uwcse.io/static/js/3.708c7f41.chunk.js",
+    "static/js/3.708c7f41.chunk.js.map": "/steve_ma_uwcse.io/static/js/3.708c7f41.chunk.js.map",
     "static/css/4.165979e2.chunk.css": "/steve_ma_uwcse.io/static/css/4.165979e2.chunk.css",
-    "static/js/4.6440f6e8.chunk.js": "/steve_ma_uwcse.io/static/js/4.6440f6e8.chunk.js",
-    "static/js/4.6440f6e8.chunk.js.map": "/steve_ma_uwcse.io/static/js/4.6440f6e8.chunk.js.map",
+    "static/js/4.3867cc5c.chunk.js": "/steve_ma_uwcse.io/static/js/4.3867cc5c.chunk.js",
+    "static/js/4.3867cc5c.chunk.js.map": "/steve_ma_uwcse.io/static/js/4.3867cc5c.chunk.js.map",
     "index.html": "/steve_ma_uwcse.io/index.html",
-    "precache-manifest.b8e339b60fcd037066c3a917a35da079.js": "/steve_ma_uwcse.io/precache-manifest.b8e339b60fcd037066c3a917a35da079.js",
+    "precache-manifest.da07db992cbdf936f2ec84bf1e09b2b1.js": "/steve_ma_uwcse.io/precache-manifest.da07db992cbdf936f2ec84bf1e09b2b1.js",
     "service-worker.js": "/steve_ma_uwcse.io/service-worker.js",
     "static/css/3.ec91b591.chunk.css.map": "/steve_ma_uwcse.io/static/css/3.ec91b591.chunk.css.map",
     "static/css/4.165979e2.chunk.css.map": "/steve_ma_uwcse.io/static/css/4.165979e2.chunk.css.map",
@@ -31,9 +31,9 @@
     "static/media/uwcse2.png": "/steve_ma_uwcse.io/static/media/uwcse2.20840525.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.3092be78.js",
-    "static/js/2.ab87317c.chunk.js",
+    "static/js/runtime-main.406403bf.js",
+    "static/js/2.ff73d9e2.chunk.js",
     "static/css/main.3e2a178c.chunk.css",
-    "static/js/main.879a0a9c.chunk.js"
+    "static/js/main.f7f4d12d.chunk.js"
   ]
 }
